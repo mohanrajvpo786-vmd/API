@@ -1,0 +1,6 @@
+{
+  "name": "APV",
+  "description": "AI-Powered Vernacular Voice Translation & Learning Assistant for Tamil Nadu, Indian regional, and indigenous tribal languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
